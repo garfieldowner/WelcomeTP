@@ -1,0 +1,6 @@
+name: WelcomeTP
+version: ${project.version}
+main: com.hayes.welcometp.WelcomeTP
+api-version: 1.16
+authors: [ HayesDev ]
+description: A simple test plugin for M-K Services
